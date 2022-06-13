@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fb01",
+    "author": "Эльдар Ахадов",
+    "name": "ОЖИДАНИЕ ЧУДА",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/relig/ahad.jpg"
+  },
+  {
+    "id": "fb02",
+    "author": "Арго",
+    "name": "ПОЧЕМУ ВЗОРВАЛСЯ КОСМОС?",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/relig/argo.jpg"
+  },
+  {
+    "id": "fb03",
+    "author": "Дика Кара",
+    "name": "КНИГА ОТВЕТОВ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/relig/book.jpg"
+  },
+  {
+    "id": "fb04",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/food-.jpg"
+  },
+  {
+    "id": "fb05",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img.jpg"
+  },
+  {
+    "id": "fb06",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/f.jpg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tn01",
+    "author": "Татьяна Петренко",
+    "name": "АРХЕОЛОГИЧЕСКИЕ ПАМЯТНИКИ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/history/pam.jpg"
+  },
+  {
+    "id": "tn02",
+    "author": "Степан Зотов",
+    "name": "ИСТОРИЯ ГЕРОЕВ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/history/zot.jpg"
+  },
+  {
+    "id": "tn03",
+    "author": "Юлия Ганецкая",
+    "name": "НАС ВОЙНА СОЕДИНИЛА",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/history/nas.jpg"
+  },
+  {
+    "id": "tn04",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/history/.jpg"
+  },
+  {
+    "id": "tn05",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/history/.jpg"
+  },
+  {
+    "id": "tn06",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/history/.jpg"
+  }
+]

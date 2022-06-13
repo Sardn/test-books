@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ps01",
+    "author": "Вероника Аверина",
+    "name": "МОЙ ЩЕНОК",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/literature/aver.jpg"
+  },
+  {
+    "id": "ps02",
+    "author": "Александр Черняк",
+    "name": "ЛЕСТНИЦА В НЕБО",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/literature/aleks.jpg"
+  },
+  {
+    "id": "ps03",
+    "author": "Светлана Журавлева",
+    "name": "ХРАНИТЕЛИ ЧУДА",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/literature/hran.jpg"
+  },
+  {
+    "id": "ps04",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/.jpg"
+  },
+  {
+    "id": "ps05",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/.jpg"
+  },
+  {
+    "id": "ps06",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/.jpg"
+  }
+]

@@ -1,0 +1,342 @@
+{
+    "db": {
+        "partners": [
+            {
+              "name": "Искусство",
+              "image": "img/genres/isk.jpg",
+              "products": "isk.json"
+            },
+            {
+              "name": "История и археология",
+              "image": "img/genres/history.jpg",
+              "products": "history.json"
+            },
+            {
+              "name": "Философия и религия",
+              "image": "img/genres/philosof.jpg",
+              "products": "philosof.json"
+            },
+            {
+              "name": "Художественная литература",
+              "image": "img/genres/hud.jpg",
+              "products": "artistic.json"
+            },
+            {
+              "name": "Информационные технологии",
+              "image": "img/genres/it.jpg",
+              "products": "it.json"
+            },
+            {
+              "name": "Детская и образовательная",
+              "image": "img/genres/det.jpg",
+              "products": "child.json"
+            }
+          ]
+          ,
+        "artistic": [
+            {
+              "id": "ps01",
+              "author": "Вероника Аверина",
+              "name": "МОЙ ЩЕНОК",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/literature/aver.jpg"
+            },
+            {
+              "id": "ps02",
+              "author": "Александр Черняк",
+              "name": "ЛЕСТНИЦА В НЕБО",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/literature/aleks.jpg"
+            },
+            {
+              "id": "ps03",
+              "author": "Светлана Журавлева",
+              "name": "ХРАНИТЕЛИ ЧУДА",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/literature/hran.jpg"
+            },
+            {
+              "id": "ps04",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/.jpg"
+            },
+            {
+              "id": "ps05",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/.jpg"
+            },
+            {
+              "id": "ps06",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/.jpg"
+            }
+          ]
+          ,
+        "child":[
+            {
+              "id": "pb01",
+              "author": "Кира Кузнецова",
+              "name": "КОТ НИНИТКИ. ПОВЕСТЬ-СКАЗКА",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/child/kot.jpg"
+            },
+            {
+              "id": "pb02",
+              "author": "Ольга Ахсахалян",
+              "name": "СКАЗКИ ФЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/child/skaz.jpg"
+            },
+            {
+              "id": "pb03",
+              "author": "Александр Милихин",
+              "name": "КОДЕКС СУРИКАТА",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/child/kodecs.jpg"
+            },
+            {
+              "id": "pb04",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img.jpg"
+            },
+            {
+              "id": "pb05",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/pi.jpg"
+            },
+            {
+              "id": "pb06",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "im.jpg"
+            }
+          ]
+          ,
+        "history": [
+            {
+              "id": "tn01",
+              "author": "Татьяна Петренко",
+              "name": "АРХЕОЛОГИЧЕСКИЕ ПАМЯТНИКИ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/history/pam.jpg"
+            },
+            {
+              "id": "tn02",
+              "author": "Степан Зотов",
+              "name": "ИСТОРИЯ ГЕРОЕВ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/history/zot.jpg"
+            },
+            {
+              "id": "tn03",
+              "author": "Юлия Ганецкая",
+              "name": "НАС ВОЙНА СОЕДИНИЛА",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/history/nas.jpg"
+            },
+            {
+              "id": "tn04",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/history/.jpg"
+            },
+            {
+              "id": "tn05",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/history/.jpg"
+            },
+            {
+              "id": "tn06",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/history/.jpg"
+            }
+          ]
+          ,
+        "isk":[
+            {
+              "id": "pp01",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/art/tat.jpg"
+            },
+            {
+              "id": "pp02",
+              "name": "КОМПОЗИЦИЯ В ЖИВОПИСИ",
+              "author":"Евгений Стасенко",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/art/komp.jpg"
+            },
+            {
+              "id": "pp03",
+              "name": "ЖИВОПИСЬ. ГРАФИКА. ФИЛОСОФИЯ",
+              "author":"Александр Глухов",
+              "price": 440,
+              "stars": 4.5,
+              "image": "img/art/graf.jpg"
+            },
+            {
+              "id": "pp04",
+             "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/.jpg"
+            },
+            {
+              "id": "pp05",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/.jpg"
+            },
+            {
+              "id": "pp06",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/.jpg"
+            }
+          ]
+          ,
+        "it": [
+            {
+              "id": "gl01",
+              "author": "Леонид Коник",
+              "name": "ЦИФРОВАЯ ТРАНСФОРМАЦИЯ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/it/cifr.jpg"
+            },
+            {
+              "id": "gl02",
+              "author": "Валерия Цыпленкова",
+              "name": "РЫНОК РОБОТОТЕХНИКИ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/it/valer.jpg"
+            },
+            {
+              "id": "gl03",
+              "author": "О. Ткачев",
+              "name": "ОСНОВЫ ПРОГРАММИРОВАНИЯ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/it/osnov.jpg"
+            },
+            {
+              "id": "gl04",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/gus.jpg"
+            },
+            {
+              "id": "gl05",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img.jpg"
+            },
+            {
+              "id": "gl06",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/g.jpg"
+            }
+          ]
+          ,
+        "philosof": [
+            {
+              "id": "fb01",
+              "author": "Эльдар Ахадов",
+              "name": "ОЖИДАНИЕ ЧУДА",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/relig/ahad.jpg"
+            },
+            {
+              "id": "fb02",
+              "author": "Арго",
+              "name": "ПОЧЕМУ ВЗОРВАЛСЯ КОСМОС?",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/relig/argo.jpg"
+            },
+            {
+              "id": "fb03",
+              "author": "Дика Кара",
+              "name": "КНИГА ОТВЕТОВ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/relig/book.jpg"
+            },
+            {
+              "id": "fb04",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/food-.jpg"
+            },
+            {
+              "id": "fb05",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img.jpg"
+            },
+            {
+              "id": "fb06",
+              "author": "Татьяна Петренко",
+              "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+              "price": 450,
+              "stars": 4.5,
+              "image": "img/f.jpg"
+            }
+          ]
+    }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Искусство",
+    "image": "img/genres/isk.jpg",
+    "products": "isk.json"
+  },
+  {
+    "name": "История и археология",
+    "image": "img/genres/history.jpg",
+    "products": "history.json"
+  },
+  {
+    "name": "Философия и религия",
+    "image": "img/genres/philosof.jpg",
+    "products": "philosof.json"
+  },
+  {
+    "name": "Художественная литература",
+    "image": "img/genres/hud.jpg",
+    "products": "artistic.json"
+  },
+  {
+    "name": "Информационные технологии",
+    "image": "img/genres/it.jpg",
+    "products": "it.json"
+  },
+  {
+    "name": "Детская и образовательная",
+    "image": "img/genres/det.jpg",
+    "products": "child.json"
+  }
+]

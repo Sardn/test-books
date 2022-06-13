@@ -1,0 +1,50 @@
+[
+  {
+    "id": "pb01",
+    "author": "Кира Кузнецова",
+    "name": "КОТ НИНИТКИ. ПОВЕСТЬ-СКАЗКА",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/child/kot.jpg"
+  },
+  {
+    "id": "pb02",
+    "author": "Ольга Ахсахалян",
+    "name": "СКАЗКИ ФЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/child/skaz.jpg"
+  },
+  {
+    "id": "pb03",
+    "author": "Александр Милихин",
+    "name": "КОДЕКС СУРИКАТА",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/child/kodecs.jpg"
+  },
+  {
+    "id": "pb04",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img.jpg"
+  },
+  {
+    "id": "pb05",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "img/pi.jpg"
+  },
+  {
+    "id": "pb06",
+    "author": "Татьяна Петренко",
+    "name": "ИНТЕРВЬЮ ЗАМЕЧАТЕЛЬНЫХ ЛЮДЕЙ",
+    "price": 450,
+    "stars": 4.5,
+    "image": "im.jpg"
+  }
+]
